@@ -1,9 +1,9 @@
 .corpo {
-    background-color:darkgreen;
+    background-color:rgba(32, 77, 32, 0.616);
 }
 
 .titulo{
-    font-size: 50px;color:white;background: dimgrey;text-align: center;
+    font-size: 50px;color:white;background: rgb(0, 0, 0);text-align: center;
 }
 .texto-imc{
     font-size: 50px;
